@@ -1,5 +1,5 @@
 
-setwd('C:/Users/VISWANATH/Desktop/Capstone/webscraping')
+setwd('path/webscraping')
 library("rvest")
 library("lubridate")
 
